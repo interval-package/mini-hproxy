@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.txt": "bat",
+        "unistd.h": "c"
+    }
+}
